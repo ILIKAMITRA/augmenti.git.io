@@ -1,0 +1,33 @@
+#grad
+{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,25,1) 0%, rgba(0,212,255,1) 100%);
+
+
+}
+*
+{
+	border-radius: 10px;
+}
+.nav
+  		{
+			background-color:grey;
+			text-align: center;
+			color: red;
+		}
+.logo-image
+{
+    width: auto ;
+    height: 100px ;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
